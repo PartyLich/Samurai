@@ -1,4 +1,4 @@
-define(['contentmanager', 'map', 'renderer', 'serverApi'], function (ContentManager, Map, Renderer, ServerApi) {
+define(['contentManager', 'map', 'renderer', 'serverApi'], function (ContentManager, Map, Renderer, ServerApi) {
 
   function Program() {
   //  var api = new ServerApi("http://samuraitest.apphb.com/"),
