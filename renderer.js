@@ -1,4 +1,4 @@
-define(['coord', 'map', 'contentmanager'], function (Coord, Map, ContentManager) {
+define(['coord', 'map', 'contentManager'], function (Coord, Map, ContentManager) {
 
   function Renderer() {
     var CELL_WIDTH = 64,
