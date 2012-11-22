@@ -1,4 +1,4 @@
 Demo
 ----
 
-Try the rough version [here](partylich.github.com/Samurai/samurai.html).
+Try the rough version [here](http://partylich.github.com/Samurai/samurai.html).
